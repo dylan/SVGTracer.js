@@ -7,6 +7,9 @@ Include script after the jQuery library:
 <script src="path/to/SVGTracer.js"></script>
 ```
 
+##Prep
+Make sure that you create your SVGs using paths with normal(center-aligned) strokes.
+
 ##Usage
 Include this in your page, and set it up on an(some) element(s).
 ```
