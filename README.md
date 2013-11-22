@@ -27,7 +27,7 @@ Include this in your page, and set it up on an(some) element(s).
 ##Options
 
 ###duration
-Sets the duration of the transition.
+Sets the duration of the transition. [See here.](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-duration)
 
 ###easing
-Sets the what sort of easing to use during the transition.
+Sets the what sort of easing to use during the transition. [See here.](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
