@@ -19,9 +19,9 @@ Include this in your page, and set it up on an(some) element(s).
     $('#mySVG')
       .svgTracer({duration:'2s'})       //Set it up
       .svgTracer('play')                //Play it
-      .svgTracert('reverse);            //Reverse it
-      .svgTracert('setDuration','3s')   //Change how long it takes
-      .svgTracert('setEasing','linear') //Change how it eases
+      .svgTracer('reverse);            //Reverse it
+      .svgTracer('setDuration','3s')   //Change how long it takes
+      .svgTracer('setEasing','linear') //Change how it eases
       .data('svgTracer').isVisible      //Can be we seen?
   });
 </script>
